@@ -1,0 +1,9 @@
+C:\Users\Andy\Dropbox\Cig TD\Assets\Models\Cigs\Camel\Cigarette VRay.max
+C:\Users\Andy\Dropbox\Cig TD\Assets\Models\Cigs\Camel\MAXFILES.TXT
+C:\Users\Andy\Dropbox\Cig TD\Assets\Models\Cigs\Camel\3D Studio Max Scenes\Cigarette\Textures\ponge.jpg
+C:\Users\Andy\Dropbox\Cig TD\Assets\Models\Cigs\Camel\3D Studio Max Scenes\Cigarette\Textures\ponge_bump.jpg
+C:\Users\Andy\Dropbox\Cig TD\Assets\Models\Cigs\Camel\3D Studio Max Scenes\Cigarette\Textures\cigarette.jpg
+C:\Users\Andy\Dropbox\Cig TD\Assets\Models\Cigs\Camel\3D Studio Max Scenes\Cigarette\Textures\cigarette bump.jpg
+C:\Users\Andy\Dropbox\Cig TD\Assets\Models\Cigs\Camel\3D Studio Max Scenes\Cigarette\Textures\filter.jpg
+C:\Users\Andy\Dropbox\Cig TD\Assets\Models\Cigs\Camel\3D Studio Max Scenes\Cigarette\Textures\tabacco.jpg
+C:\Users\Andy\Dropbox\Cig TD\Assets\Models\Cigs\Camel\3D Studio Max Scenes\Cigarette\Textures\tabacco_displace.jpg
